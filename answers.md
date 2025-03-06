@@ -6,6 +6,7 @@ String
 
 ## Question 3
 An integer is a number without a decimal point, whereas a float is a number that includes a decimal point and place(s).
+25 is an integer.  25.57 is a float.
 
 ## Question 4
 Nothing
